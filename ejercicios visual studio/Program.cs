@@ -21,8 +21,8 @@ namespace ConsoleApp2
                 Console.Write("es menor ");
 
             }
-            
-
+            //hola
+           
 
         }
     }
